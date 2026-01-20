@@ -1,2 +1,2 @@
 # Teiko-Technical
-A repository containing my submission for the Teiko Technical.
+A repository containing James Reilly's submission for the Teiko Technical.
