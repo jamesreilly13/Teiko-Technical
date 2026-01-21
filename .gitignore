@@ -1,0 +1,23 @@
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment / local environment folders
+venv/
+env/
+.env
+
+# Database files (can be large and can be regenerated)
+*.db
+
+# OS-specific files
+.DS_Store        # macOS
+Thumbs.db        # Windows
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Logs
+*.log
