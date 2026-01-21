@@ -7,14 +7,22 @@ This project implements a complete data analysis pipeline and interactive dashbo
 
 ## Project Structure
 ├── data_management.py # Part 1: Database schema and CSV loading
+
 ├── analysis.py # Part 2: Compute relative frequencies of cell populations
+
 ├── stats_analysis.py # Part 3: Statistical comparison and visualization
+
 ├── queries.py # Part 4: Cohort queries and summaries
+
 ├── dashboard.py # Streamlit dashboard integrating all analyses
+
 ├── data/
 │ └── cell-count.csv # Input CSV file
+
 ├── requirements.txt # Python dependencies
+
 ├── README.md
+
 └── .gitignore
 
 ---
